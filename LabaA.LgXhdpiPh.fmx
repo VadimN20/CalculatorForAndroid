@@ -1,0 +1,12 @@
+inherited FormBall: TFormBall
+  Caption = 'Balls'
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 0
+  inherited Divide: TButton
+    TextSettings.FontColorForState.Normal = claYellow
+  end
+  inherited result: TEdit
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+  end
+end

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.597,=D:\с++ labs\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,D:\Study\с++ labs\Android\LabaA.cpp=D:\с++ labs\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,D:\Study\с++ labs\Android\LabaA.h=D:\с++ labs\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.698,D:\Study\с++ labs\Android\Android.h=D:\с++ labs\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,=D:\с++ labs\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,=D:\с++ labs\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.539,=D:\с++ labs\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.657,D:\Study\с++ labs\Android\laba5.cbproj=D:\с++ labs\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,D:\Study\с++ labs\Android\LabaA.fmx=D:\с++ labs\Unit1.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
